@@ -1,4 +1,5 @@
 Note to self: Currently to run locally replace the Gemfiles with those in gemfiles_local
+To build locally run `bundle exec jekyll serve`
 
 # Bay
 
