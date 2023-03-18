@@ -6,9 +6,8 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  I am a research assistant in Machine Learning at the University of Cambridge working with Prof. José Miguel Hernández-Lobato and his group.
+  I am currently working on modelling the Boltzmann distribution of molecules with deep generative models. 
+  I love surfing and rock climbing. 
 </p>
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>

@@ -8,13 +8,34 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="home">
-          <img
-            src="{{ page.profile_picture.src | absolute_url }}"
-            alt="{{ page.profile_picture.alt }}"
-            class="profile-pic"
-          />
-
-          {{ content }}
+          <div class="profile-pic-wrapper" style="text-align: center; height: max-content;">
+            <img
+              src="{{ page.profile_picture.src | absolute_url }}"
+              alt="{{ page.profile_picture.alt }}"
+              class="profile-pic"
+            />
+          <div class="social-list" style="margin: 0px; padding: 0px;">
+          {% for contact in site.footer.contact %}
+            <a class="contact-logo-container"
+             data-toggle="tooltip" data-placement="bottom"
+             title="{{ contact.name }}"
+             href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">
+              <i class="contact-logo {{ contact.logo }}" alt="{{ contact.name }}"></i>
+            </a>
+          {% endfor %}
+          {% for follow in site.footer.follow %}
+            <a class="contact-logo-container"
+             data-toggle="tooltip" data-placement="bottom"
+             title="{{ follow.name }}"
+             href="{{ follow.link }}" id="{{ follow.name | downcase }}-link">
+              <i class="contact-logo {{ follow.logo }}" alt="{{ follow.name }}"></i>
+            </a>
+          {% endfor %}
+          </div>
+          </div>
+          <div id="description">
+            {{ content }}
+          </div>
         </div>
       </div>
     </div>
