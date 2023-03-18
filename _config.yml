@@ -5,7 +5,7 @@ title: Laurence Midgley
 description: >- # this means to ignore newlines until "baseurl:"
  Silly goose
 baseurl: "" # the subpath of the site
-url: "https://laurencemidgley.github.io" # the base hostname & protocol for the site
+url: "https://lollcat.github.io/laurence-midgley/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 #google_analytics: "UA-121636368-3"
 

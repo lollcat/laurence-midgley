@@ -1,3 +1,5 @@
+Note to self: Currently to run locally replace the Gemfiles with those in gemfiles_local
+
 # Bay
 
 [![Version](https://img.shields.io/gem/v/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
