@@ -4,6 +4,10 @@ title: Publications and Talks
 slug: /publications
 ---
 
+# Work in progress 
+
+L. I. Midgley, V. Stimper, J. Antorán, E. Mathieu, B. Schölkopf and J.M. Hernández-Lobato. *SE(3) Augmented Equivariant Flows*. Under Review. 2023. [[PDF]](assets/papers/Augmented_Equivariant_Normalizing_Flow.pdf)
+
 # Publications
 \* denotes equal contribution
  - L. I. Midgley\*, V. Stimper\*, G. N. C Simm, B. Schölkopf and J.M. Hernández-Lobato. *Flow Annealed Importance Sampling Bootstrap*. Spotlight at The International Conference for Learning Representations (ICLR). 2023. [[paper]](https://arxiv.org/abs/2208.01893) [[code]](https://github.com/lollcat/fab-torch)
