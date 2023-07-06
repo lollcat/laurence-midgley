@@ -6,7 +6,7 @@ slug: /publications
 
 # Work in progress 
 
-L. I. Midgley, V. Stimper, J. Antorán, E. Mathieu, B. Schölkopf and J.M. Hernández-Lobato. *SE(3) Augmented Equivariant Flows*. Under Review. 2023. [[PDF]](assets/papers/Augmented_Equivariant_Normalizing_Flow.pdf)
+L. I. Midgley, V. Stimper, J. Antorán, E. Mathieu, B. Schölkopf and J.M. Hernández-Lobato. *SE(3) Equivariant Augmented Flows*. Under Review. 2023. [[PDF]](assets/papers/Augmented_Equivariant_Normalizing_Flow.pdf)
 
 # Publications
 \* denotes equal contribution
