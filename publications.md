@@ -17,6 +17,7 @@ slug: /publications
  - L. I. Midgley, M. Thomson. *Reinforcement learning for chemical engineering process synthesis*. 2019. [[paper]](https://zenodo.org/record/3556549#.ZBXGN9LP1kg) [[code]](https://github.com/lollcat/RL-Process-Design)
 
 # Talks
+ - *Flow Annealed Importance Sampling Bootstrap*. Oxford Computational Statistics and Machine Learning Group (OxCSML) Seminar. 2023.
  - *Flow Annealed Importance Sampling Bootstrap*. Oral (Spotlight Paper) at The International Conference for Learning Representations (ICLR). 2023
  - *Flow Annealed Importance Sampling Bootstrap*. Graphs and Geometry Reading Group. 2023. [[recording]](https://www.youtube.com/watch?v=xQQXvOWu9nE&t=5001s&ab_channel=ValenceDiscovery)
  - *Flow Annealed Importance Sampling Bootstrap*. ELLIS Machine Learning for Molecule Discovery Workshop (oral presentation). 2022.
