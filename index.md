@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I am the co-founder and CTO of [Angstrom AI](https://www.angstrom-ai.com/) which uses generative ML models to accelerate molecular simulations.
+I am the co-founder and CTO of <a href="https://www.angstrom-ai.com/">Ångström AI</a> which uses generative ML models to accelerate molecular simulations.
 We use our molecular simulations to accurately compute thermodynamic observables (solvation free energy, log P/log D, RBFE etc).
 </p>
 
