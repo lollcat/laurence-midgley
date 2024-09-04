@@ -6,8 +6,12 @@ profile_picture:
 ---
 
 <p>
-  I am a PhD Student in Machine Learning and Chemistry at the University of Cambridge working with Prof. José Miguel Hernández-Lobato and his group.
-  I am currently working on modelling the Boltzmann distribution of molecules with deep generative models. 
-  I love surfing and rock climbing. 
+I am the co-founder and CTO of [Angstrom AI](https://www.angstrom-ai.com/) which uses generative ML models to accelerate molecular simulations.
+We use our molecular simulations to accurately compute thermodynamic observables (solvation free energy, log P/log D, RBFE etc).
 </p>
+
+<p>
+I also love surfing and spending time at home in South Africa. 
+</p>
+
 
